@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../素材/扫雷/埃菲尔铁塔.png</file>
+        <file>../../素材/扫雷/巴黎圣母院.png</file>
+        <file>../../素材/扫雷/比萨斜塔.png</file>
+        <file>../../素材/扫雷/东京铁塔.png</file>
+        <file>../../素材/扫雷/帆船酒店.png</file>
+        <file>../../素材/扫雷/方尖碑.png</file>
+        <file>../../素材/扫雷/古罗马竞技场.png</file>
+        <file>../../素材/扫雷/故宫.png</file>
+        <file>../../素材/扫雷/基督像.png</file>
+        <file>../../素材/扫雷/金沙酒店.png</file>
+        <file>../../素材/扫雷/金字塔.png</file>
+        <file>../../素材/扫雷/巨石阵.png</file>
+        <file>../../素材/扫雷/卢浮宫.png</file>
+        <file>../../素材/扫雷/伦敦塔.png</file>
+        <file>../../素材/扫雷/鸟居.png</file>
+        <file>../../素材/扫雷/帕特农神庙.png</file>
+        <file>../../素材/扫雷/婆罗浮屠.png</file>
+        <file>../../素材/扫雷/奇琴伊察玛雅遗迹.png</file>
+        <file>../../素材/扫雷/泰姬陵.png</file>
+        <file>../../素材/扫雷/天空之门.png</file>
+        <file>../../素材/扫雷/天坛大佛.png</file>
+        <file>../../素材/扫雷/瓦西里飞天教堂.png</file>
+        <file>../../素材/扫雷/吴哥窟.png</file>
+        <file>../../素材/扫雷/雅加达国家纪念碑.png</file>
+        <file>../../素材/扫雷/长城.png</file>
+        <file>../../素材/扫雷/自由女神像.png</file>
+    </qresource>
+</RCC>
